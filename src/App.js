@@ -15,7 +15,7 @@ const App = () => {
                 setPlaces(data);
             })
     }, []);
-    // test git push
+    // test git push text2
 
     return (
         <>
