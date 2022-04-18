@@ -15,6 +15,7 @@ const App = () => {
                 setPlaces(data);
             })
     }, []);
+    // test git push
 
     return (
         <>
